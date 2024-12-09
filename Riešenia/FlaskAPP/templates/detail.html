@@ -38,6 +38,12 @@
         .button:hover {
             background-color: #45a049;
         }
+        .button.delete {
+            background-color: #f44336;
+        }
+        .button.delete:hover {
+            background-color: #d32f2f;
+        }
     </style>
 </head>
 <body>
@@ -46,6 +52,10 @@
         <p><strong>Name:</strong> {{ user[1] }}</p>
         <p><strong>Age:</strong> {{ user[2] }}</p>
         <a href="/users" class="button">Back to List</a>
+        <a href="/users/{{ user[0] }}/update" class="button">Update</a>
+        <form action="/users/{{ user[0] }}/delete" method="post" style="display:inline;">
+            <input type="hidden" name="_method" value="DELETE"><button type="submit" class="button delete">Delete</button>
+        </form>
     </div>
 </body>
 </html>
