@@ -1,0 +1,11 @@
+Juraj,Slafkovsky,82,20,30
+Tomas,Tatar,70,9,15
+Martin,Pospisil,63,8,16
+Simon,Nemec,60,3,16
+Martin,Fehervary,66,3,13
+Erik,Cernak,69,2,11
+Adam,Ruzicka,42,3,6
+Milos,Kelemen,10,0,1
+Patrik,Koch,1,0,0
+Marian,Studenic,2,0,0
+Pavol,Regenda,5,0,0
