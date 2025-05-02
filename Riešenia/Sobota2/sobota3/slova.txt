@@ -1,0 +1,11 @@
+stolicka
+uloha
+rybicka
+strom
+ulica
+automobil
+leporelo
+abeceda
+clovek
+autobus
+nova doba

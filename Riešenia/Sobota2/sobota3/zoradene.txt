@@ -1,0 +1,7 @@
+Karol,18
+Erik,18
+Lucia,18
+Ivan,26
+Marek,33
+Ivana,41
+Petra,45
