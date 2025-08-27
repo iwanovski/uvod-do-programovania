@@ -1,0 +1,5 @@
+Ivan,49
+Peter,72
+Eva,41
+Karol,13
+Erika,79
