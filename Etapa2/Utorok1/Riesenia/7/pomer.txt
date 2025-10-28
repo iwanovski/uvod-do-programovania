@@ -1,0 +1,11 @@
+Juraj Slafkovsky 0.61
+Tomas Tatar 0.34
+Martin Pospisil 0.38
+Simon Nemec 0.32
+Martin Fehervary 0.24
+Erik Cernak 0.19
+Adam Ruzicka 0.21
+Milos Kelemen 0.1
+Patrik Koch 0.0
+Marian Studenic 0.0
+Pavol Regenda 0.0
