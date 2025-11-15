@@ -1,0 +1,8 @@
+Ivan,182,76
+Peter,179,65
+Eva,165,53
+Katarina,158,55
+Karol,193,85
+Martina,171,61
+Tomas,172,69
+Erika,168,52

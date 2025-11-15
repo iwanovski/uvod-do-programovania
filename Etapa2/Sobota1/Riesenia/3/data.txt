@@ -1,0 +1,6 @@
+Ivan,183,83
+Petra,178,59
+Karol,189,86
+Ivana,174,52
+Erik,183,91
+Martina,169,49
